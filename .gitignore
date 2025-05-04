@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+node_modules/
+.env
+.idea/
+.vscode/
+
+
+# Misc
+.DS_Storecrawl-data-177.sqlite
+*.sqlite
+
